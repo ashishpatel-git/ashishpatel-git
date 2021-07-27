@@ -6,8 +6,8 @@
 - 🌱 Learning all about K8s, AppSec, Python, and Go 
 - 💬 Ping me about cloud security, application security, automation, and infrastructure hardening.
 - ✨ Love working on open source security tools
-- 📫 Reach me: twitter.com/_ashishpatel
-- ℹ️ LinkedIn: https://www.linkedin.com/in/ashishpatel0/
+- 📫 Reach me: [Twitter](https://twitter.com/_ashishpatel)
+- ℹ️ Connect: [LinkedIn](https://www.linkedin.com/in/ashishpatel0/)
 
 ##### BLOG POSTS
 - [Enforcing Least Privilege IAM in GCP: The Easy Way](https://medium.com/@_ashishpatel/enforcing-least-privilege-iam-in-gcp-the-easy-way-f7840bdc8e03)
