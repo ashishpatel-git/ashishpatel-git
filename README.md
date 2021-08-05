@@ -4,7 +4,7 @@
 
 ##### BIO
 - 🌱 Learning all about K8s, AppSec, Python, and Go 
-- 💬 Ping me about cloud security, application security, automation, and infrastructure hardening.
+- 💬 Ping me about cloud security, application security, automation, and infrastructure hardening
 - ✨ Love working on open source security tools
 - 📫 Reach me: [Twitter](https://twitter.com/_ashishpatel)
 - ℹ️ Connect: [LinkedIn](https://www.linkedin.com/in/ashishpatel0/)
