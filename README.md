@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Security Engineer currently working @ Salesforce in San Francisco, CA.
+#### I'm a Security Engineer currently working @ Salesforce in San Francisco, CA
 
 ##### BIO
-- 🌱 Learning all about K8s, AppSec, Python, and Go 
 - 💬 Ping me about cloud security, application security, automation, and infrastructure hardening
 - ✨ Love working on open source security tools
 - 📫 Reach me: [Twitter](https://twitter.com/_ashishpatel)
