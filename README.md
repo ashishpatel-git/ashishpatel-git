@@ -19,3 +19,4 @@
 
 - [Metabadger](https://github.com/salesforce/metabadger)
 - [BSides 2020 SF: Automation Workshop](https://bsidessf2020.sched.com/event/Ybjr/if-this-then-hack-an-intro-to-diy-cloud-security-automation-with-python)
+- [OWASP Podcast: Best Practices for Proactive Cloud Security](https://www.buzzsprout.com/775379/4019645) 
