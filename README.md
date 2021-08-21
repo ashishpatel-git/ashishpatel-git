@@ -3,8 +3,8 @@
 #### I'm a Security Engineer currently working @ Salesforce in San Francisco, CA
 
 ##### BIO
-- 💬 Ping me about cloud security, application security, automation, and infrastructure hardening
-- ✨ Love working on open source security tools
+- 💬 Interested in all things cloud security, application security, automation, and infrastructure hardening
+- ✨ Love contributing on open source security tools and collaborating with the security community
 - 📫 Reach me: [Twitter](https://twitter.com/_ashishpatel)
 - ℹ️ Connect: [LinkedIn](https://www.linkedin.com/in/ashishpatel0/)
 
