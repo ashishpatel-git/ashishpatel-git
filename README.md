@@ -16,7 +16,7 @@
 - [Automated Cloud Patching with AWS Lambda](https://medium.com/@_ashishpatel/automated-cloud-patching-with-aws-lambda-fb5531d4b458)
 
 ##### CONFERENCES/COMMUNITY CONTRIBUTIONS
-
+- [OWASP AppSec Global 2021](https://usa.globalappsec.org/)
 - [Metabadger](https://github.com/salesforce/metabadger)
 - [BSides 2020 SF: Automation Workshop](https://bsidessf2020.sched.com/event/Ybjr/if-this-then-hack-an-intro-to-diy-cloud-security-automation-with-python)
 - [OWASP Podcast: Best Practices for Proactive Cloud Security](https://www.buzzsprout.com/775379/4019645) 
