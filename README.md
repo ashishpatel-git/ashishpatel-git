@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#### I'm a Security Engineer currently working @ Salesforce in San Francisco, CA
-
 ##### BIO
 - 💬 Interested in all things cloud security, application security, automation, and infrastructure hardening
 - ✨ Love contributing on open source security tools and collaborating with the security community
