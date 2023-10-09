@@ -14,6 +14,7 @@
 - [Automated Cloud Patching with AWS Lambda](https://medium.com/@_ashishpatel/automated-cloud-patching-with-aws-lambda-fb5531d4b458)
 
 ##### CONFERENCES/COMMUNITY CONTRIBUTIONS
+- [Cloud Village 2023 @ DEFCON 31](https://cloud-village.org/)
 - [BSides 2022 SF: Metabadger: Automating IMDS Protection at Scale in AWS](https://bsidessf2022.sched.com/event/rjrI/metabadger-automating-imds-protection-at-scale-in-aws)
 - [OWASP AppSec Global 2021](https://usa.globalappsec.org/)
 - [Metabadger OSS Tool](https://github.com/salesforce/metabadger)
